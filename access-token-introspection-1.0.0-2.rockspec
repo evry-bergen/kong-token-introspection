@@ -1,5 +1,5 @@
 package = "access-token-introspection"
-version = "1.0.0-1"
+version = "1.0.0-2"
 source = {
    url = "git+https://github.com/evry-bergen/kong-token-introspection.git"
 }
